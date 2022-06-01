@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Ozan Gürsucu. Welcome to my GitHub Profile! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5px> </h1>
+<h1 align="left">Hi, I'm Ozan Gürsucu. Welcome to my GitHub Profile! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 35px> </h1>
 <h3 align="left"> I am a Frontend Developer. I love coding, writing and music. </h3>
 <h3 align="left"> Glad to see you here! </h3>
 <h5 align="left">📍 Currently base at: İstanbul, Turkey</h5>
