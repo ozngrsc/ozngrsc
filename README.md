@@ -8,7 +8,7 @@
 
 
 <div size='20px'> 
-<h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+<h2 align='left'> Connect with me  </h2>
 <p align='left'>
 <a href = 'https://www.linkedin.com/in/ozan-g%C3%BCrsucu-82ba20b5/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/OznGrsc_'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
