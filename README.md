@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Ozan Gürsucu. Welcome to my GitHub Profile!  </h1>
 <h3 align="left"> I am a Frontend Developer. I love coding, writing and music. </h3>
 <h3 align="left"> Glad to see you here! </h3>
-<h5 align="left">📍 Currently base at: İstanbul, Turkey</h5>
+<h5 align="left">📍 Currently base at: Sakarya, Turkey</h5>
 
 
 
