@@ -35,7 +35,7 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/testinglibrary.svg'>                       <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>                                                                                                                
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reacttestinglibrary.svg'>                       <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'>                                                                                                                
 
 <br>
 </p>
